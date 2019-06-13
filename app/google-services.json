@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220855058662",
+    "firebase_url": "https://fancard-8e8a0.firebaseio.com",
+    "project_id": "fancard-8e8a0",
+    "storage_bucket": "fancard-8e8a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220855058662:android:c80e1c8ef93ccc69",
+        "android_client_info": {
+          "package_name": "com.funfeteapps.cards_datafeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220855058662-fm9odbfas8qac63n71hiinit1int7jkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_oiJosA60XsjdXhD050CLcoHqWYSRdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220855058662-fm9odbfas8qac63n71hiinit1int7jkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
